@@ -1,0 +1,10 @@
+﻿{
+	"properties":[{"name":"CustomerId","datatype":"int","isArray":"false","CustomObject":"false"},
+	{"name":"CustomerName","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"CustomerEmail","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"CustomerPhoneNumber","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"CustomerAddress","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"ServiceId","datatype":"int","isArray":"false","CustomObject":"false"},
+	{"name":"CustomerType","datatype":"CustomerType","isArray":"false","CustomObject":"true"}]
+	
+}

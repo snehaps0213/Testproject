@@ -1,0 +1,7 @@
+﻿{
+	"properties":[{"name":"ServiceId","datatype":"int","isArray":"false","CustomObject":"false"},
+	{"name":"ServiceName","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"DepartmentId","datatype":"int","isArray":"false","CustomObject":"false"},
+	{"name":"Customers","datatype":"Customer","isArray":"true","CustomObject":"true"}]
+	
+}

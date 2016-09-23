@@ -1,0 +1,8 @@
+﻿{
+	"properties":[{"name":"DepartmentId","datatype":"int","isArray":"false","CustomObject":"false"},
+	{"name":"DepartmentName","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"Director","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"Organizationid","datatype":"int","isArray":"false","CustomObject":"false"},
+	{"name":"services","datatype":"Service","isArray":"true","CustomObject":"true"}]
+	
+}

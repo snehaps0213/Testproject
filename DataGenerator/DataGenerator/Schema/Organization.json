@@ -1,0 +1,8 @@
+﻿{
+	"properties":[{"name":"OrganizationId","datatype":"int","isArray":"false","CustomObject":"false"},
+	{"name":"OrganizationName","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"OrganizationAddress","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"OrganizationCategory","datatype":"string","isArray":"false","CustomObject":"false"},
+	{"name":"Departments","datatype":"Deaprtment","isArray":"true","CustomObject":"true"}]
+	
+}
